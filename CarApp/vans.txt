@@ -1,0 +1,8 @@
+s|Ford|Transit|3|Petrol|50|1|5|a|True|True|True
+s|Ford|Fiesta|3|Petrol|50|2|5|a|True|True|True
+s|Ford|Escort|3|Petrol|50|3|5|a|True|True|True
+s|Ford|Modeo|3|Petrol|50|4|5|a|True|True|True
+s|Vw|Transit|3|Petrol|50|1|5|a|True|True|True
+s|Vw|Fiesta|3|Petrol|50|2|5|a|True|True|True
+s|Merc|Escort|3|Petrol|50|3|5|a|True|True|True
+s|Merc|Modeo|3|Petrol|50|4|5|a|True|True|True

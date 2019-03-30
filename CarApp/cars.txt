@@ -1,0 +1,12 @@
+c0|Ford|Ka|3|Petrol|50|1.1|3|3|Hatch|Hatch
+c1|Ford|Fiesta|3|Petrol|50|1.4|3|3|Hatch|Hatch
+c2|Ford|Escort|3|Diesel|50|1|5|5|Hatch|Hatch
+c3|Ford|Modeo|3|Diesel|50|1|5|5|Hatch|Hatch
+c4|Opel|Corsa|3|Petrol|50|1|5|5|Hatch|Hatch
+c5|Opel|Astra|3|Petrol|50|1|5|5|Hatch|Hatch
+c6|Opel|Vectra|3|Diesel|50|1|5|5|Hatch|Hatch
+c7|Opel|Safera|3|Diesel|50|1|5|5|Hatch|Hatch
+c8|Vw|Lupo|3|Petrol|50|1|5|5|Hatch|Hatch
+c9|Vw|Polo|3|Petrol|50|1|5|5|Hatch|Hatch
+c10|Vw|Golf|3|Diesel|50|1|5|5|Hatch|Hatch
+c11|Vw|Passat|3|Diesel|50|1|5|5|Hatch|Hatch
